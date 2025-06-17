@@ -1,4 +1,14 @@
 body {
     background-color: rgb(105, 113, 113);
     color: bisque;
+    
+
+  font-family: "Savate", sans-serif;
+  
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
 }
