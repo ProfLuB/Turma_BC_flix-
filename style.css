@@ -4,11 +4,17 @@ body {
     
 
   font-family: "Savate", sans-serif;
-  
+  margin: 10px;
 }
 h1 {
     font-size: 30px;
 }
 p {
     font-size: 20px;
+}
+header{
+    font-size: 50px;
+    border: solid 10px rgb(108, 90, 90);
+    margin-bottom: 20px;
+    padding-top: 30px;
 }
