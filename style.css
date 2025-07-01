@@ -6,6 +6,7 @@ body {
   font-family: "Savate", sans-serif;
   margin: 10px;
 }
+
 h1 {
     font-size: 30px;
 }
@@ -13,10 +14,8 @@ p {
     font-size: 20px;
 }
 
-header{
-    font-size: 50px;
-    text-align: center;
-    border: dashed 20px rgb(232, 36, 36);
-    margin-bottom: 20px;
-    padding-top: 30px;
+section {
+    background-color: rgb(125, 172, 248);
+    padding-bottom: 80px;
+    padding-top: 60px;
 }
